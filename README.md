@@ -1,4 +1,8 @@
-<center><h1> Exploring365 </h1></center>  
+<h1 align="center"> Exploring365 </h1> 
+
+<p align="center">
+  <img src="intro_back.jpg " />
+</p>
 
 In this repository, we will explore different data and bring out their magical stories.
 
