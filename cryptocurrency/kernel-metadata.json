@@ -1,0 +1,13 @@
+{
+  "title": "INSERT_TITLE_HERE",
+  "enable_gpu": "false",
+  "id": "mrwolfgang/INSERT_KERNEL_SLUG_HERE",
+  "language": "INSERT_LANGUAGE_HERE",
+  "enable_internet": "false",
+  "kernel_sources": [],
+  "code_file": "INSERT_CODE_FILE_PATH_HERE",
+  "is_private": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_type": "INSERT_KERNEL_TYPE_HERE"
+}
